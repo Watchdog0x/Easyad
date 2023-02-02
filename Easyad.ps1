@@ -186,7 +186,7 @@ Flags:
 function help {
     $help = @"
 
-EasyAD $version By Danylo Abildgaard
+EasyAD $version By Daniel Abildgaard
 
 Usage:
     Easyad [command]
