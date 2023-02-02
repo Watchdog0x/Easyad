@@ -13,7 +13,7 @@ function add($argv) {
 
     $help = @"
 
-EasyAD $version By Danylo Abildgaard
+EasyAD $version By Daniel Abildgaard
 
 Usage:
     Easyad add [flags]
@@ -79,7 +79,7 @@ function list($argv) {
 
     $help = @"
 
-EasyAD $version By Danylo Abildgaard
+EasyAD $version By Daniel Abildgaard
 
 Usage:
     Easyad list [flags]
